@@ -1,0 +1,19 @@
+.banner {
+	background-image: url(../../images/paysage.jpg);
+	padding: 300px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1,h2 {
+	color: black;
+}
+
+.banner h1{ 
+font-size: 50px;
+font-weight: lighter;
+margin-bottom: 100px;
+ }
+
+ .banner h2 { 
+ margin-bottom: 100px; }
